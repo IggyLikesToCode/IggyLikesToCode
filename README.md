@@ -1,4 +1,4 @@
-#Hi I'm Iggy! 👋💻
+# Hi I'm Iggy! 👋💻
 I am an aspiring programmer coming from Poland. I am currently in 8th grade and would love to share my passion for programming with you! I predominantly work in Python, C++ and C#; yet I consider myself "fluent" additionally in Java, Swift and JS. I am mostly interested in fields such as Game Development and Electrical Engineering. I find programming gives me a way of expressing myself creatively and stand out amongst the crowd. I am currently not working on any project in particular and find myself completing small ones whenever I have time.
 
 ## Find Me 🌍
